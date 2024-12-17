@@ -10,11 +10,14 @@ Here are some of the projects I've been working on:
 
 - **NeuralNetCpp**: A complete implementation of a neural network in C++. 
 
-- **KattisSolutions**: My solutions to various Kattis problems written in Java. 
+- **KattisSolutions**: My solutions to various competitive programming problems from the Kattis database written in Java, Python, or C++. 
 
 - **PMTWebsite**: Website for Phoenix Motor Sports Formula SAE Team, hosted on a DigitalOcean Droplet. 
 
-- **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart. 
+- **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart.
+
+- **PirateTime**: An app where you compete with friends online to reduce screentime in a fun, pirate-themed game, developed in Android Studio. 
+
 
 ## Get in Touch
 
