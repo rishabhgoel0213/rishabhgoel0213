@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a high schooler with interests in computer science, math, and physics. This account contains some of my programming projects related to machine learning, web development, and competitive programming. I enjoy exploring new technologies and applying them to solve real-world problems.
+I'm a high schooler with interests in computer science, math, and physics. This account contains some projects related to machine learning, web development, and competitive programming. I enjoy exploring new technologies and applying them to solve real-world problems.
 
 ## Projects
 
