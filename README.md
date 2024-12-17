@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Rishabh Goel! 👋
 
-<!--
-**rishabhgoel0213/rishabhgoel0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a high schooler with interests in computer science, math, and physics. This account contains some of my programming projects related to machine learning, web development, and competitive programming. I enjoy exploring new technologies and applying them to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Here are some of the projects I've been working on:
+
+- **NeuralNetCpp**: A complete implementation of a neural network in C++. 
+
+- **KattisSolutions**: My solutions to various Kattis problems written in Java. 
+
+- **PMTWebsite**: Website for Phoenix Motor Sports Formula SAE Team, hosted on a DigitalOcean Droplet. 
+
+- **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart. 
+
+## Get in Touch
+
+Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+
+- **GitHub**: [github.com/rishabhgoel0213](https://github.com/rishabhgoel0213)
+
+- **Instagram**: [@rishabhgoel0213](https://www.instagram.com/rishabhgoel0213/)
+
+Looking forward to connecting with you!
