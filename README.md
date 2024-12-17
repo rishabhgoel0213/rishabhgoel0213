@@ -16,7 +16,7 @@ Here are some of the projects I've been working on:
 
 - **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart.
 
-- **PirateTime**: An app where you compete with friends online to reduce screentime in a fun, pirate-themed game, developed in Android Studio. 
+- **pirate-time**: An app where you compete with friends online to reduce screentime in a fun, pirate-themed game, developed in Android Studio. 
 
 
 ## Get in Touch
