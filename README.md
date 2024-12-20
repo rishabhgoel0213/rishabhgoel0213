@@ -10,7 +10,7 @@ Here are some of the projects I've been working on:
 
 - **NeuralNetCpp**: A complete implementation of a neural network in C++. 
 
-- **KattisSolutions**: My solutions to various competitive programming problems from the Kattis database, written in Java.
+- **CPSolutions**: My solutions to various competitive programming problems, written in Java.
   
 - **PMTWebsite**: Website for Phoenix Motor Sports Formula SAE Team, hosted on a DigitalOcean Droplet. 
 
