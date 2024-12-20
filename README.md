@@ -8,7 +8,7 @@ I'm a high schooler with interests in computer science, math, and physics. This 
 
 Here are some of the projects I've been working on:
 
-- **NeuralNetCpp**: A complete implementation of a deep neural network, written in C++, tested in MNIST and MPG datasets. 
+- **NeuralNetCpp**: A complete implementation of a deep neural network, written in C++, tested on MNIST and MPG datasets. 
 
 - **CPSolutions**: My solutions to various competitive programming problems, written in Java.
   
