@@ -12,7 +12,7 @@ Here are some of the projects I've been working on:
 
 - **CPSolutions**: My solutions to various competitive programming problems, written in Java.
   
-- **ThanksgivingMeal Generator**: A simple and fun way to generate recipies for Thanksgiving dinner, based on GPT-3, written in Python. 
+- **ThanksgivingMealGenerator**: A simple and fun way to generate recipies for Thanksgiving dinner, based on GPT-3, written in Python. 
 
 - **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart.
 
