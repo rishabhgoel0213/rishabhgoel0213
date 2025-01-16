@@ -10,7 +10,7 @@ Here are some of the projects I've been working on:
 
 - **NeuralNetCpp**: A complete implementation of a deep neural network, written in C++, tested on MNIST and MPG datasets. 
 
-- **CPSolutions**: My solutions to various competitive programming problems, written in Java.
+- **CPSolutions**: My solutions to various competitive programming problems, written in Java and C++.
   
 - **ThanksgivingMealGenerator**: A simple and fun way to generate recipies for Thanksgiving dinner, based on GPT-3, written in Python. 
 
