@@ -8,7 +8,7 @@ I'm a high schooler with interests in computer science, math, and physics. This 
 
 Here are some of the projects I've been working on:
 
-- **ZeroClone**: My attempt to recreate Google DeepMind's AlphaZero from scratch by incrementally "solving" more and more complex games using machine learning techniques like MCSTs.
+- **ZeroClone**: My attempt to recreate Google DeepMind's AlphaZero from scratch by incrementally "solving" more and more complex games using machine learning techniques like MCTSs.
   
 - **NeuralNetCpp**: A complete implementation of a deep neural network, written in C++, tested on MNIST and MPG datasets. 
 
