@@ -8,6 +8,8 @@ I'm a high schooler with interests in computer science, math, and physics. This 
 
 Here are some of the projects I've been working on:
 
+- **ZeroClone**: My attempt to recreate Google DeepMind's AlphaZero from scratch by incrementally "solving" more and more complex games using machine learning techniques like MCSTs.
+  
 - **NeuralNetCpp**: A complete implementation of a deep neural network, written in C++, tested on MNIST and MPG datasets. 
 
 - **CPSolutions**: My solutions to various competitive programming problems, written in Java and C++.
@@ -15,9 +17,6 @@ Here are some of the projects I've been working on:
 - **ThanksgivingMealGenerator**: A simple and fun way to generate recipies for Thanksgiving dinner, based on GPT-3, written in Python. 
 
 - **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart.
-
-- **pirate-time**: An app where you compete with friends online to reduce screentime in a fun, pirate-themed game, developed in Android Studio. 
-
 
 ## Get in Touch
 
