@@ -1,4 +1,4 @@
-# Hi there, I'm Rishabh Goel! 👋
+# Hi there, I'm Rishabh Goel!
 
 ## About Me
 
