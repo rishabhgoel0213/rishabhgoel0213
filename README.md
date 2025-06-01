@@ -22,7 +22,7 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
 
-- **GitHub**: [github.com/rishabhgoel0213](https://github.com/rishabhgoel0213)
+- **Linkedin**: [Rishabh Goel](https://www.linkedin.com/in/rishabh-goel-00679533b/)
 
 - **Instagram**: [@rishabhgoel0213](https://www.instagram.com/rishabhgoel0213/)
 
