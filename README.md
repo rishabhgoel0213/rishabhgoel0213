@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm a high schooler with interests in computer science, math, and physics. This account contains some projects related to machine learning, web development, and competitive programming. I enjoy exploring new technologies and applying them to solve real-world problems.
+I'm a freshman at the Univeristy of Maryland with interests in computer science, math, and physics. This account contains some projects related to machine learning, web development, and competitive programming. I enjoy exploring new technologies and applying them to solve real-world problems.
 
 ## Projects
 
 Here are some of the projects I've been working on:
 
-- **ZeroClone**: My attempt to recreate Google DeepMind's AlphaZero from scratch by incrementally "solving" more and more complex games using machine learning techniques like MCTSs.
+- **ZeroClone**: A general learning algorithm for two-player perfect informtion games, designed to be modular, inspired by Google DeepMind's AlphaZero.
 
 - **CPSolutions**: My solutions to various competitive programming problems, written in Java and C++.
   
