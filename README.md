@@ -1,8 +1,6 @@
-# Hi there, I'm Rishabh Goel!
-
 ## About Me
 
-I'm a freshman at the Univeristy of Maryland with interests in computer science, math, and physics. This account contains some projects related to machine learning, web development, and competitive programming. I enjoy exploring new technologies and applying them to solve real-world problems.
+I'm a freshman at the Univeristy of Maryland with interests in computer science, math, and physics. This account contains some projects related to machine learning, web development, and competitive programming.
 
 ## Projects
 
