@@ -14,7 +14,7 @@ Here are some of the projects I've been working on:
 
 - **NeuralNetCpp**: A complete implementation of a deep neural network, written in C++, tested on MNIST and MPG datasets.
   
-- **ServerWebApps**: Private infrastructure built with Tailscale to quickly prototype and deploy private web apps developed by OpenAI Codex. 
+- **ServerWebApps**: Private infrastructure built with Tailscale to quickly prototype and deploy personal-use web apps developed by OpenAI Codex. 
 
 ## Get in Touch
 
