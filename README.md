@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a freshman at the Univeristy of Maryland with interests in computer science, math, and physics. This account contains some projects related to machine learning, web development, and competitive programming.
+I'm a freshman at the Univeristy of Maryland with interests in computer science, math, and physics. This account contains some of the stuff I'm working on. 
 
 ## Projects
 
