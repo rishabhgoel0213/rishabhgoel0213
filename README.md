@@ -6,13 +6,13 @@ I'm a freshman at the Univeristy of Maryland with interests in computer science,
 
 Here are some of the projects I've been working on:
 
+- **TrackerOnlyEmu**: A set of tools to emulate tracker responses at the CERN LHC, for which I implemeted bootstrapping for the L0 Hadron trigger mechanism emulation's uncertainty.
+  
 - **ZeroClone**: A general learning algorithm for two-player perfect informtion games, designed to be modular, inspired by Google DeepMind's AlphaZero.
 
 - **CPSolutions**: My solutions to various competitive programming problems, written in Java and C++.
   
 - **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart.
-
-- **NeuralNetCpp**: A complete implementation of a deep neural network, written in C++, tested on MNIST and MPG datasets.
   
 - **ServerWebApps**: Private infrastructure built with Tailscale to quickly prototype and deploy personal-use web apps developed by OpenAI Codex. 
 
