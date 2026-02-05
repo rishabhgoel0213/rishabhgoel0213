@@ -8,11 +8,12 @@ I'm a freshman at the Univeristy of Maryland with interests in computer science,
   
 - **ZeroClone**: A general learning algorithm for two-player perfect informtion games, designed to be modular, inspired by Google DeepMind's AlphaZero.
 
+- **ServerWebApps**: Private infrastructure built with Tailscale to quickly prototype and deploy personal-use web apps developed by OpenAI Codex. 
+
 - **CPSolutions**: My solutions to various competitive programming problems, written in Java and C++.
   
 - **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart.
   
-- **ServerWebApps**: Private infrastructure built with Tailscale to quickly prototype and deploy personal-use web apps developed by OpenAI Codex. 
 
 ## Get in Touch
 
