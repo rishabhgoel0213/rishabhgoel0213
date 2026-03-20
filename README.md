@@ -4,8 +4,6 @@ Hi, I’m Rishabh — a freshman at the University of Maryland studying physics 
 
 I enjoy building systems, exploring algorithms, and working on projects that sit at the intersection of math, physics, and computation. This repository is a collection of things I’ve been working on, experimenting with, or learning from.
 
----
-
 ## Projects
 
 - **TrackerOnlyEmu**  
@@ -19,8 +17,6 @@ I enjoy building systems, exploring algorithms, and working on projects that sit
 
 - **CPSolutions**  
   My solutions to competitive programming problems, primarily in Java and C++.
-
----
 
 ## Get in Touch
 
