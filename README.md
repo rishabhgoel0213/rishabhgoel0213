@@ -1,8 +1,8 @@
 ## About Me
 
-Hi, I’m Rishabh — a freshman at the University of Maryland studying physics and mathematics, with a strong interest in computer science.  
+Hi, I’m Rishabh — a freshman at the University of Maryland studying physics, mathematics, and computer science.  
 
-I enjoy building systems, exploring algorithms, and working on projects that sit at the intersection of math, physics, and computation. This repository is a collection of things I’ve been working on, experimenting with, or learning from.
+I enjoy building systems, exploring algorithms, and working on projects that help me gain intution about my interests. Github is where I collect things I’ve been working on, experimenting with, or learning from.
 
 ## Projects
 
