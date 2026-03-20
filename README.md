@@ -1,22 +1,28 @@
 ## About Me
 
-I'm a freshman at the Univeristy of Maryland with interests in computer science, math, and physics. This account contains some of the stuff I'm working on. 
+Hi, I’m Rishabh — a freshman at the University of Maryland studying physics and mathematics, with a strong interest in computer science.  
+
+I enjoy building systems, exploring algorithms, and working on projects that sit at the intersection of math, physics, and computation. This repository is a collection of things I’ve been working on, experimenting with, or learning from.
+
+---
 
 ## Projects
 
-- **TrackerOnlyEmu**: A set of tools to emulate tracker responses at the CERN LHC, for which I implemeted bootstrapping for the L0 Hadron trigger mechanism emulation's uncertainty.
-  
-- **ZeroClone**: A general learning algorithm for two-player perfect informtion games, designed to be modular, inspired by Google DeepMind's AlphaZero.
+- **TrackerOnlyEmu**  
+  Tools for emulating tracker responses at the CERN LHC. I worked on bootstrapping uncertainty for the L0 Hadron trigger emulation.
 
-- **ServerWebApps**: Private infrastructure built with Tailscale to quickly prototype and deploy personal-use web apps developed by OpenAI Codex. 
+- **ZeroClone**  
+  A modular learning framework for two-player perfect-information games, inspired by DeepMind’s AlphaZero.
 
-- **CPSolutions**: My solutions to various competitive programming problems, written in Java and C++.
-  
-- **RealPokerGame**: A fast-paced free-to-play poker game where you compete for rating points, developed in Dart.
-  
+- **ServerWebApps**  
+  A private, Tailscale-based infrastructure for quickly prototyping and deploying personal web apps, often built with AI-assisted workflows.
+
+- **CPSolutions**  
+  My solutions to competitive programming problems, primarily in Java and C++.
+
+---
 
 ## Get in Touch
 
-- **Linkedin**: [Rishabh Goel](https://www.linkedin.com/in/rishabh-goel-00679533b/)
-
+- **LinkedIn**: [Rishabh Goel](https://www.linkedin.com/in/rishabh-goel-00679533b/)  
 - **Instagram**: [@rishabhgoel0213](https://www.instagram.com/rishabhgoel0213/)
