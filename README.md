@@ -1,9 +1,3 @@
-## About Me
-
-Hi, I’m Rishabh — a freshman at the University of Maryland studying physics, mathematics, and computer science.  
-
-I enjoy building systems, exploring algorithms, and working on projects that help me gain intution about my interests. Github is where I collect things I’ve been working on, experimenting with, or learning from.
-
 ## Projects
 
 - **TrackerOnlyEmu**  
@@ -22,3 +16,4 @@ I enjoy building systems, exploring algorithms, and working on projects that hel
 
 - **LinkedIn**: [Rishabh Goel](https://www.linkedin.com/in/rishabh-goel-00679533b/)  
 - **Instagram**: [@rishabhgoel0213](https://www.instagram.com/rishabhgoel0213/)
+- **X**: [@rishabhgoel0213](https://x.com/rishabhgoel0213)
