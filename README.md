@@ -1,4 +1,4 @@
-## Projects
+## Active Projects
 
 - **TrackerOnlyEmu**  
   Tools for emulating tracker responses at the CERN LHC. I worked on bootstrapping uncertainty for the L0 Hadron trigger emulation.
