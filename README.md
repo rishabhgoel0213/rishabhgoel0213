@@ -1,6 +1,6 @@
 ## Active Projects
 
-- **ResearchTree*
+- **ResearchTree**
   A framework for systematically exploring and improving AI research ideas through structured search and experimentation.
   
 - **TrackerOnlyEmu**  
