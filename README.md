@@ -15,8 +15,3 @@
 
 - **CPSolutions**  
   My solutions to competitive programming problems, primarily in Java and C++.
-
-## Get in Touch
-  
-- **Instagram**: [@rishabhgoel0213](https://www.instagram.com/rishabhgoel0213/)
-- **X**: [@rishabhgoel0213](https://x.com/rishabhgoel0213)
