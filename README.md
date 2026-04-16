@@ -2,7 +2,7 @@
 
 
 - **ResearchTree**  
-  A framework for systematically exploring and improving AI research ideas through structured search and experimentation.
+  A framework for systematically exploring and improving agentic AI-based research through structured search and experimentation, designed to scale well with multiple agents.
   
 - **TrackerOnlyEmu**  
   Tools for emulating tracker responses at the CERN LHC. I worked on bootstrapping uncertainty for the L0 Hadron trigger emulation.
