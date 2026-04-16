@@ -1,6 +1,6 @@
-Student Researcher — UMD Physics / LHCb Experiment
+**Student Researcher — UMD Physics / LHCb Experiment
 Physics, Math, and Computer Science Undergraduate — University of Maryland
-Deep Learning Enthusiast
+Deep Learning Enthusiast**
 
 ## Active Projects
 
