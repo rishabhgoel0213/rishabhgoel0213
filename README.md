@@ -11,7 +11,7 @@
   A modular learning framework for two-player perfect-information games, inspired by DeepMind’s AlphaZero.
 
 - **ServerWebApps**  
-  A private, Tailscale-based infrastructure for quickly prototyping and deploying personal web apps, often built with AI-assisted workflows.
+  A private, Tailscale-based infrastructure for quickly prototyping and deploying personal web apps that I build with Codex.
 
 - **CPSolutions**  
   My solutions to competitive programming problems, primarily in Java and C++.
