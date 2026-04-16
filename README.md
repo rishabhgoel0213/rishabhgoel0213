@@ -1,5 +1,3 @@
-**Student Researcher — Physics+Math+CS Undergraduate @UMD — Deep Learning Enthusiast**
-
 ## Active Projects
 
 
