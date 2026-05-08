@@ -44,7 +44,7 @@
 
 #v(0.35em)
 #text(size: 9.2pt)[
-  Physics-minded builder who uses code, math, and writing to explore hard ideas, then turns what I learn into tools, explanations, and communities that help others learn too.
+  Physics-minded builder who creates the tools, curricula, and systems I wish existed when I was learning.
 ]
 
 #section[EDUCATION]
