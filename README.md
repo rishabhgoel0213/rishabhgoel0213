@@ -2,7 +2,7 @@
 
 
 - **ResearchTree**  
-  A framework for systematically exploring and improving codebases through structured multi-agent search and experimentation.
+  A framework for systematically exploring and improving AI research ideas through structured search and experimentation.
   
 - **TrackerOnlyEmu**  
   Tools for emulating tracker responses at the CERN LHC. I worked on bootstrapping uncertainty for the L0 Hadron trigger emulation.
@@ -12,6 +12,9 @@
 
 - **ServerWebApps**  
   A private, Tailscale-based infrastructure for quickly prototyping and deploying personal web apps that I build with Codex.
+
+- **PHYSNotebooks**  
+  PHYS 276 lab notebooks, reports, and course materials.
 
 - **CPSolutions**  
   My solutions to competitive programming problems, primarily in Java and C++.
