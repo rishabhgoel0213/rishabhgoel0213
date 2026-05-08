@@ -3,8 +3,8 @@
   paper: "us-letter",
   margin: (x: 0.58in, y: 0.52in),
 )
-#set text(font: "New Computer Modern", size: 9.2pt, lang: "en")
-#set par(justify: false, leading: 0.58em)
+#set text(font: "New Computer Modern", size: 9pt, lang: "en")
+#set par(justify: false, leading: 0.54em)
 
 #let accent = rgb("#2f5f7f")
 
@@ -54,7 +54,7 @@ Relevant coursework: AP Physics C: Mechanics, AP Calculus BC, AP Statistics, AP 
 
 #v(0.18em)
 #dated[University of Maryland, College Park MD - Physics Major][Sep 2025 - May 2029]
-Relevant coursework: Introductory Physics: Fields; Experimental Physics I: Mechanics and Waves; Multivariable Calculus, Linear Algebra and Differential Equations I (Honors); Object Oriented Programming I and II (exemption exam)
+Relevant coursework: Introductory Physics: Fields; Introductory Physics: Oscillations and Waves; Experimental Physics I: Mechanics and Waves; Experimental Physics II: Electricity and Magnetism; Multivariable Calculus, Linear Algebra, Differential Equations I and II (Honors); Special Problems in Physics; Object Oriented Programming I and II (exemption exam)
 
 #section[EXPERIENCE & PROJECTS]
 
@@ -62,6 +62,13 @@ Relevant coursework: Introductory Physics: Fields; Experimental Physics I: Mecha
 #bullets((
   [Building a general learning algorithm for two-player perfect-information games, inspired by Google DeepMind's AlphaZero.],
   [Implemented batched-GPU self-play pipeline and plug-and-play game adapters in C++ and Python.],
+))
+
+#v(0.05em)
+#dated[ResearchTree - Open-Source Creator][May 2026 - Present]
+#bullets((
+  [Built a framework for exploring AI research ideas through structured search and experimentation.],
+  [Added Dockerized workflows for evaluating candidate branches with repeatable scorers and preserved artifacts.],
 ))
 
 #v(0.05em)
