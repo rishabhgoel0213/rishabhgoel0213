@@ -1,8 +1,6 @@
-## I build tools for thinking.
+## Rishabh Goel
 
-I build the tools, curricula, and systems I wish existed when I was learning.
-
-I’m drawn to the moment when a difficult idea becomes shareable—when an algorithm becomes code, a physical law becomes an equation, a feeling becomes prose, or a group of people finally understands something together.
+Physics student and programmer building research tools, learning systems, scientific workflows, and the infrastructure around them.
 
 ## Active Projects
 
