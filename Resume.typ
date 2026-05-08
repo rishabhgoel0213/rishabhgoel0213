@@ -44,7 +44,7 @@
 
 #v(0.35em)
 #text(size: 9.2pt)[
-  Curious and driven technologist who blends math, code, and creativity to explore complex ideas. Passionate about scientific discovery, mentoring peers, and making hard concepts approachable.
+  Physics-minded builder who uses code, math, and writing to explore hard ideas, then turns what I learn into tools, explanations, and communities that help others learn too.
 ]
 
 #section[EDUCATION]
@@ -60,14 +60,14 @@ Relevant coursework: Introductory Physics: Fields; Introductory Physics: Oscilla
 
 #dated[ZeroClone - Open-Source Creator][Apr 2025 - Present]
 #bullets((
-  [Building a general learning algorithm for two-player perfect-information games, inspired by Google DeepMind's AlphaZero.],
+  [Building a general learning system for two-player perfect-information games, inspired by Google DeepMind's AlphaZero.],
   [Implemented batched-GPU self-play pipeline and plug-and-play game adapters in C++ and Python.],
 ))
 
 #v(0.05em)
 #dated[ResearchTree - Open-Source Creator][May 2026 - Present]
 #bullets((
-  [Built a framework for exploring AI research ideas through structured search and experimentation.],
+  [Built a framework for turning research ideas into structured search, repeatable experiments, and scored candidate branches.],
   [Added Dockerized workflows for evaluating candidate branches with repeatable scorers and preserved artifacts.],
 ))
 
@@ -82,7 +82,7 @@ Relevant coursework: Introductory Physics: Fields; Introductory Physics: Oscilla
 #dated[Rock Ridge HS Competitive Programming Club - President][Sep 2021 - Jun 2025]
 #bullets((
   [Led and coached 15 members; placed Top-10 in multiple Chesapeake-region university contests.],
-  [Organized weekly problem-solving workshops and collectively solved 30+ 1800-rated problems on Codeforces.],
+  [Built weekly workshops and problem sets to make high-level competitive-programming practice more accessible.],
 ))
 
 #v(0.05em)

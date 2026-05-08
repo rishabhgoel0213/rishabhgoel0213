@@ -1,20 +1,25 @@
+## I build tools for thinking.
+
+I’m a physics-minded builder who uses code, math, and writing to explore hard ideas, then turns what I learn into tools, explanations, and communities that help others learn too.
+
+I’m drawn to the moment when a difficult idea becomes shareable—when an algorithm becomes code, a physical law becomes an equation, a feeling becomes prose, or a group of people finally understands something together.
+
 ## Active Projects
 
-
 - **ResearchTree**  
-  A framework for systematically exploring and improving AI research ideas through structured search and experimentation.
+  A framework for turning research curiosity into structured search, repeatable experiments, and preserved artifacts.
   
 - **TrackerOnlyEmu**  
-  Tools for emulating tracker responses at the CERN LHC. I worked on bootstrapping uncertainty for the L0 Hadron trigger emulation.
+  Tools for emulating tracker responses at the CERN LHC, including bootstrap uncertainty work for L0 Hadron trigger emulation.
 
 - **ZeroClone**  
-  A modular learning framework for two-player perfect-information games, inspired by DeepMind’s AlphaZero.
+  A modular learning system for two-player perfect-information games, inspired by DeepMind’s AlphaZero.
 
 - **ServerWebApps**  
-  A private, Tailscale-based infrastructure for quickly prototyping and deploying personal web apps that I build with Codex.
+  Reproducible personal infrastructure for quickly prototyping and deploying web apps.
 
 - **PHYSNotebooks**  
-  PHYS 276 lab notebooks, reports, and course materials.
+  Physics lab notebooks, reports, and course materials built around making experiments and explanations easier to revisit.
 
 - **CPSolutions**  
-  My solutions to competitive programming problems, primarily in Java and C++.
+  Competitive programming solutions, primarily in Java and C++, from years of learning by building my own path through hard problems.

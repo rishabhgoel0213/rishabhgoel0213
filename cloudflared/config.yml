@@ -1,0 +1,9 @@
+tunnel: 549cebc2-9ef7-4c7f-bfb1-dec19c2d95d8
+credentials-file: /home/nonroot/.cloudflared/549cebc2-9ef7-4c7f-bfb1-dec19c2d95d8.json
+
+ingress:
+  - hostname: therealrishabh.com
+    service: http://site:80
+  - hostname: www.therealrishabh.com
+    service: http://site:80
+  - service: http_status:404
